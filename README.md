@@ -1,4 +1,4 @@
-# s3scan
+# S3scan
 
 A Tool to Check for Security Best Practises for S3 Buckets.
 
